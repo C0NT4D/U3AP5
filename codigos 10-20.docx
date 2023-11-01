@@ -6,5 +6,7 @@
 15. find ~ -maxdepth 1 -type f -exec ls -i {} \
 16. mkdir prueba
 17. mkir dir1,dir2,dir3   mkdir dir11,dir31,dir311, dir112
+18. cp /etc/hostname PRUEBA/mensaje
+
 
 
