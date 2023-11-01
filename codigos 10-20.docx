@@ -7,6 +7,9 @@
 16. mkdir prueba
 17. mkir dir1,dir2,dir3   mkdir dir11,dir31,dir311, dir112
 18. cp /etc/hostname PRUEBA/mensaje
+19. cp PRUEBA/mensaje PRUEBA/dir1/  cp PRUEBA/mensaje PRUEBA/dir2/  cp PRUEBA/mensaje PRUEBA/dir3/
+
+
 
 
 
