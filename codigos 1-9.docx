@@ -6,3 +6,4 @@
 6. ls /dev/t*C1
 7. ls -a
 8. ls | grep -v "t"
+9. ls -R
