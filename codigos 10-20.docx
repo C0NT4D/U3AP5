@@ -4,5 +4,6 @@
 13. cd ~
 14. pwd
 15. find ~ -maxdepth 1 -type f -exec ls -i {} \
+16. mkdir prueba
 
 
