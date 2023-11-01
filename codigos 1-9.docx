@@ -4,3 +4,4 @@
 4. ls /dev/tty??
 5. ls /dev/tty*{1,2,3,4}
 6. ls /dev/t*C1
+7. ls -a
